@@ -1,16 +1,9 @@
-### Hi there 
+### Hi there , I'm moeka-moeka 👋
 
-<!--
-**moeka-moeka/moeka-moeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My strong point is my communication skill.
+I like to talk to you and I'm confident that I'll get along with anyone.
 
-Here are some ideas to get you started:
-
-- 🔭 私はゲームが好きです。
-- 🌱 私はアニメが好きです。
-- 👯 私はバイクに乗るのが好きです。
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 I like to play games.
+- 📺 I like watching anime and movies.
+- 🏍 I like motorcycles,so tour various places.
